@@ -5512,7 +5512,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"Spotheight",
@@ -5545,7 +5545,7 @@
              "text-allow-overlap":false,
              "text-line-height":1.6,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -5588,7 +5588,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -5630,7 +5630,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -5672,7 +5672,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -5714,7 +5714,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -5756,7 +5756,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -5798,7 +5798,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -5840,7 +5840,7 @@
              "text-allow-overlap":false,
              "text-line-height":1.1,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -5883,7 +5883,7 @@
              "symbol-placement":"line",
              "text-padding":30,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9,
@@ -5914,7 +5914,7 @@
              "symbol-placement":"line",
              "text-padding":1,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-offset":[
@@ -5956,7 +5956,7 @@
              "symbol-placement":"line",
              "text-padding":1,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name}",
              "text-offset":[
@@ -5999,7 +5999,7 @@
              "symbol-placement":"line",
              "text-padding":1,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name}",
              "text-offset":[
@@ -6031,7 +6031,7 @@
              "symbol-placement":"line",
              "text-padding":1,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name}",
              "text-offset":[
@@ -6062,7 +6062,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -6084,7 +6084,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -6114,7 +6114,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -6144,7 +6144,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-size":10.666667,
@@ -6174,7 +6174,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-size":10.666667,
@@ -6204,7 +6204,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-size":10.666667,
@@ -6234,7 +6234,7 @@
              "text-allow-overlap":false,
              "text-line-height":1,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-padding":15,
@@ -6265,7 +6265,7 @@
              "text-allow-overlap":false,
              "text-line-height":1.5,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-padding":15,
@@ -6296,7 +6296,7 @@
              "text-allow-overlap":false,
              "text-line-height":1.5,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-padding":15,
@@ -6327,7 +6327,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-size":10.666667,
@@ -6357,7 +6357,7 @@
              "text-allow-overlap":false,
              "text-line-height":1.5,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-padding":15,
@@ -6388,7 +6388,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name}",
              "text-size":9.333333,
@@ -6419,7 +6419,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name}",
              "text-size":9.333333,
@@ -6450,7 +6450,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name}",
              "text-size":9.33333,
@@ -6476,7 +6476,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name}",
              "text-size":9.333333,
@@ -6502,7 +6502,7 @@
              "text-allow-overlap":false,
              "text-line-height":1.5,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-padding":15,
@@ -6528,7 +6528,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-size":{
                 "stops":[
@@ -6582,7 +6582,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-size":{
                 "stops":[
@@ -6636,7 +6636,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-size":{
                 "stops":[
@@ -6690,7 +6690,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-size":{
                 "stops":[
@@ -6744,7 +6744,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-size":{
                 "stops":[
@@ -6787,7 +6787,7 @@
              "symbol-placement":"line",
              "text-padding":5,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-offset":[
@@ -6821,7 +6821,7 @@
              "symbol-placement":"line",
              "text-padding":5,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-offset":[
@@ -6850,7 +6850,7 @@
              "symbol-placement":"line",
              "text-padding":5,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-field":"{_name_global}",
              "text-size":9.333333,
@@ -6875,7 +6875,7 @@
              "symbol-placement":"line",
              "text-padding":5,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.333333,
@@ -6921,7 +6921,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -6967,7 +6967,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -7013,7 +7013,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -7070,7 +7070,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -7127,7 +7127,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Bold"
+                "DIN Offc Pro Bold"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -7184,7 +7184,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Bold"
+                "DIN Offc Pro Bold"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -7241,7 +7241,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Bold"
+                "DIN Offc Pro Bold"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -7298,7 +7298,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -7354,7 +7354,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -7410,7 +7410,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Bold"
+                "DIN Offc Pro Bold"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -7466,7 +7466,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Bold"
+                "DIN Offc Pro Bold"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -7522,7 +7522,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Bold"
+                "DIN Offc Pro Bold"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -7577,7 +7577,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle white black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -7626,7 +7626,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle white black/{_len}",
              "text-field":"{_name}",
@@ -7675,7 +7675,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Secondary Hwy red white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -7724,7 +7724,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Secondary Hwy red white/{_len}",
              "text-field":"{_name}",
@@ -7774,7 +7774,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped yellow black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -7824,7 +7824,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped yellow black/{_len}",
              "text-field":"{_name}",
@@ -7873,7 +7873,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped red white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -7922,7 +7922,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped red white/{_len}",
              "text-field":"{_name}",
@@ -7972,7 +7972,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped blue white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8022,7 +8022,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped blue white/{_len}",
              "text-field":"{_name}",
@@ -8071,7 +8071,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/V-shaped white black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8120,7 +8120,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/V-shaped white black/{_len}",
              "text-field":"{_name}",
@@ -8170,7 +8170,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped white black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8220,7 +8220,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped white black/{_len}",
              "text-field":"{_name}",
@@ -8270,7 +8270,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped white green (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8320,7 +8320,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped white green/{_len}",
              "text-field":"{_name}",
@@ -8370,7 +8370,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped green leaf (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8420,7 +8420,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/U-shaped green leaf/{_len}",
              "text-field":"{_name}",
@@ -8470,7 +8470,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle yellow black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8520,7 +8520,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle yellow black/{_len}",
              "text-field":"{_name}",
@@ -8570,7 +8570,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle red white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8620,7 +8620,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle red white/{_len}",
              "text-field":"{_name}",
@@ -8669,7 +8669,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle blue white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8718,7 +8718,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle blue white/{_len}",
              "text-field":"{_name}",
@@ -8768,7 +8768,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle green white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8818,7 +8818,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle green white/{_len}",
              "text-field":"{_name}",
@@ -8867,7 +8867,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle green yellow (Alt)/{_len}",
              "text-field":"{_name}",
@@ -8916,7 +8916,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle green yellow/{_len}",
              "text-field":"{_name}",
@@ -8965,7 +8965,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon inverse white black/{_len}",
              "text-field":"{_name}",
@@ -9014,7 +9014,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon inverse white black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9063,7 +9063,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon white black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9112,7 +9112,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon white black/{_len}",
              "text-field":"{_name}",
@@ -9161,7 +9161,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon yellow black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9210,7 +9210,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon yellow black/{_len}",
              "text-field":"{_name}",
@@ -9259,7 +9259,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon green white/{_len}",
              "text-field":"{_name}",
@@ -9308,7 +9308,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon green white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9357,7 +9357,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon green yellow/{_len}",
              "text-field":"{_name}",
@@ -9406,7 +9406,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon green yellow (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9455,7 +9455,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon blue white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9504,7 +9504,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Pentagon blue white/{_len}",
              "text-field":"{_name}",
@@ -9553,7 +9553,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon white black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9602,7 +9602,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon white black/{_len}",
              "text-field":"{_name}",
@@ -9651,7 +9651,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon blue white/{_len}",
              "text-field":"{_name}",
@@ -9700,7 +9700,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon blue white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9749,7 +9749,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon red white/{_len}",
              "text-field":"{_name}",
@@ -9798,7 +9798,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon red white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9847,7 +9847,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon green white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -9896,7 +9896,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon green white/{_len}",
              "text-field":"{_name}",
@@ -9945,7 +9945,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon orange black/{_len}",
              "text-field":"{_name}",
@@ -9994,7 +9994,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Hexagon orange black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10043,7 +10043,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle hexagon blue white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10092,7 +10092,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle hexagon blue white/{_len}",
              "text-field":"{_name}",
@@ -10141,7 +10141,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle hexagon red white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10190,7 +10190,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle hexagon red white/{_len}",
              "text-field":"{_name}",
@@ -10239,7 +10239,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle hexagon green white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10288,7 +10288,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle hexagon green white/{_len}",
              "text-field":"{_name}",
@@ -10337,7 +10337,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle hexagon brown white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10386,7 +10386,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Rectangle hexagon brown white/{_len}",
              "text-field":"{_name}",
@@ -10435,7 +10435,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Octagon green white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10484,7 +10484,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Octagon green white/{_len}",
              "text-field":"{_name}",
@@ -10533,7 +10533,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Shield white black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10582,7 +10582,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Shield white black/{_len}",
              "text-field":"{_name}",
@@ -10631,7 +10631,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Secondary Hwy green white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10680,7 +10680,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Secondary Hwy green white/{_len}",
              "text-field":"{_name}",
@@ -10730,7 +10730,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Secondary Hwy white black (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10779,7 +10779,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Secondary Hwy white black/{_len}",
              "text-field":"{_name}",
@@ -10828,7 +10828,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Shield blue white (Alt)/{_len}",
              "text-field":"{_name}",
@@ -10877,7 +10877,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "icon-image":"Road/Shield blue white/{_len}",
              "text-field":"{_name}",
@@ -10912,7 +10912,7 @@
              "symbol-placement":"line",
              "text-padding":5,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.333333,
@@ -10942,7 +10942,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -10982,7 +10982,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11027,7 +11027,7 @@
                 ]
              },
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11057,7 +11057,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11082,7 +11082,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11107,7 +11107,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11132,7 +11132,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11157,7 +11157,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11182,7 +11182,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11207,7 +11207,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11232,7 +11232,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11257,7 +11257,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -11293,7 +11293,7 @@
              "text-allow-overlap":false,
              "text-padding":25,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -11329,7 +11329,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11354,7 +11354,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11379,7 +11379,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.333333,
@@ -11404,7 +11404,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11429,7 +11429,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11454,7 +11454,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11479,7 +11479,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11504,7 +11504,7 @@
              "text-allow-overlap":false,
              "text-padding":25,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11529,7 +11529,7 @@
              "text-allow-overlap":false,
              "text-padding":25,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11554,7 +11554,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -11596,7 +11596,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11621,7 +11621,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":9.5,
@@ -11646,7 +11646,7 @@
              "text-allow-overlap":false,
              "text-padding":25,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -11682,7 +11682,7 @@
              "text-allow-overlap":false,
              "text-padding":25,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -11718,7 +11718,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -11754,7 +11754,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":11.0,
@@ -11785,7 +11785,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":12.333333,
@@ -11827,7 +11827,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -11899,7 +11899,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -11971,7 +11971,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -12043,7 +12043,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -12115,7 +12115,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -12187,7 +12187,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -12248,7 +12248,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -12314,7 +12314,7 @@
              "icon-padding":2,
              "text-padding":5,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom",
              "icon-image":"Point of interest/Bus station",
@@ -12414,7 +12414,7 @@
              "icon-padding":2,
              "text-padding":5,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom",
              "icon-image":"Point of interest/Rail station",
@@ -12501,7 +12501,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -12538,7 +12538,7 @@
              "text-allow-overlap":false,
              "text-padding":15,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -12580,7 +12580,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -12622,7 +12622,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -12664,7 +12664,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -12706,7 +12706,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -12748,7 +12748,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name_global}",
              "text-size":{
@@ -12790,7 +12790,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/town small non capital",
@@ -12828,7 +12828,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/town large non capital",
@@ -12866,7 +12866,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/small non capital",
@@ -12904,7 +12904,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/medium non capital",
@@ -12957,7 +12957,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/other capital",
@@ -12995,7 +12995,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/town large other capital",
@@ -13033,7 +13033,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/small other capital",
@@ -13071,7 +13071,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/medium other capital",
@@ -13136,7 +13136,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Serif Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -13190,7 +13190,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Serif Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -13244,7 +13244,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Serif Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -13302,7 +13302,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Serif Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-field":"{_name}",
              "text-size":{
@@ -13360,7 +13360,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Serif Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-size":{
                 "stops":[
@@ -13407,7 +13407,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/town small admin0 capital",
@@ -13460,7 +13460,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/town large admin0 capital",
@@ -13513,7 +13513,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/small admin0 capital",
@@ -13566,7 +13566,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/medium admin0 capital",
@@ -13619,7 +13619,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/large other capital",
@@ -13683,7 +13683,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/x large admin2 capital",
@@ -13747,7 +13747,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/large non capital",
@@ -13811,7 +13811,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/large admin0 capital",
@@ -13875,7 +13875,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/x large non capital",
@@ -13939,7 +13939,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/x large admin1 capital",
@@ -14003,7 +14003,7 @@
              "icon-padding":1,
              "text-padding":1,
              "text-font":[
-                "Noto Sans Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"bottom-left",
              "icon-image":"City small scale/x large admin0 capital",
@@ -14079,7 +14079,7 @@
              "text-allow-overlap":false,
              "text-padding":1,
              "text-font":[
-                "Noto Serif Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-size":{
                 "stops":[
@@ -14127,7 +14127,7 @@
              "text-allow-overlap":false,
              "text-line-height":1.75,
              "text-font":[
-                "Noto Serif Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"center",
              "text-field":"{_name_global}",
@@ -14164,7 +14164,7 @@
              "icon-allow-overlap":true,
              "text-line-height":1.5,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "icon-image":"Disputed label point",
@@ -14214,7 +14214,7 @@
              "text-letter-spacing":0.1,
              "icon-allow-overlap":true,
              "text-font":[
-                "Noto Sans Italic"
+                "DIN Offc Pro Italic"
              ],
              "text-anchor":"center",
              "icon-image":"Disputed label point",
@@ -14303,7 +14303,7 @@
                 ]
              },
              "text-font":[
-                "Noto Serif Regular"
+                "DIN Offc Pro Regular"
              ],
              "text-anchor":"center",
              "icon-image":"Disputed label point",
