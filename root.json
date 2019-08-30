@@ -1,7 +1,7 @@
 {
    "version":8,
    "sprite":"https://cdn.arcgis.com/sharing/rest/content/items/1768e8369a214dfab4e2167d5c5f2454/resources/styles/../sprites/sprite",
-   "glyphs":"https://basemaps.arcgis.com/arcgis/v1/rest/services/World_Basemap/VectorTileServer/resources/fonts/{fontstack}/{range}.pbf",
+   "glyphs":"https://basemaps.arcgis.com/v1/arcgis/rest/services/World_Basemap/VectorTileServer/resources/fonts/{fontstack}/{range}.pbf",
    "sources":{
       "esri":{
          "type":"vector",
