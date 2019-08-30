@@ -5,7 +5,7 @@
    "sources":{
       "esri":{
          "type":"vector",
-         "tiles":["https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap/VectorTileServer/tile/{z}/{x}/{y}.pbf"]
+         "tiles":["https://sampleserver1.arcgisonline.com/ArcGIS/rest/services/PublicSafety/PublicSafetyBasemap/MapServer/tile/{z}/{x}/{y}.pbf"]
       }
    },
    "layers":[
